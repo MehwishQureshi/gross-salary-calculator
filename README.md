@@ -1,4 +1,4 @@
-Gross Salary Calculator 🧮
+## Gross Salary Calculator 🧮
 
 A simple Python script to compute the gross salary of an employee based on basic input parameters like basic pay, allowances, deductions, etc.
 
